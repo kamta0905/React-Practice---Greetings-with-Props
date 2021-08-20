@@ -5,7 +5,7 @@ const Welcome = ({name}) => {
     <>
       <div>Hey!</div>
       <h1>{name}</h1>
-      <h2>Welcome to Newton School.</h2>
+      <h2>Welcome to Newton School</h2>
       
     </>
   )
